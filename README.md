@@ -27,3 +27,53 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Carrossel de Skills:** Visualização de minhas habilidades em formato de carrossel infinito.
 * **Seção de Projetos:** Seção onde os projetos ficam organizado por nome, stack, imagem e pequena descrição, além de botões que levam para seus respectivos repositórios no Github e link de seus sites.
 * **Seção de Certificados:** Exibição dinâmica de cursos e certificações.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+  src/
+  ├── assets/          # Imagens e recursos estáticos
+  ├── components/      # Componentes reutilizáveis (Navbar, Hero, Projects, etc.)
+  ├── App.jsx          # Componente principal e configuração de Rotas/Estado
+  ├── index.css        # Estilos globais e configuração do Tailwind
+  └── main.jsx         # Ponto de entrada da aplicação
+```
+
+---
+
+## Como rodar o Projeto:
+Siga os passos para rodar o portfólio em sua máquina
+* ### **Pré requisitos:** Node.js instalado (versão 16 ou superior recomendada).
+* ### Instalação
+  
+1. Clone o repositório:
+```bash
+  git clone [https://github.com/danielluiz07/meu-portifolio-react](https://github.com/danielluiz07/meu-repositorio-react.git) 
+```
+
+2. Abra a pasta:
+```bash
+  cd nome-da-pasta
+```
+
+3. Instale as depedências:
+```bash
+  npm install
+  # ou
+  yarn install
+```
+
+4. Rode o servidor em Desenvolvimento:
+```bash
+   npm run dev
+```
+
+5. Acesse `http://localhost:5173` no seu navegador
+
+## 📬 Contato
+Se tiver alguma dúvida ou quiser bater um papo sobre tecnologia, entre em contato!
+
+* **[Linkedin](https://www.linkedin.com/in/daniel-luiz1607/)**
+* **Email:** danielluiz1607@gmail.com
