@@ -17,7 +17,6 @@ export default function Skills() {
         animate={{ x: ["0%", "-50%"] }}
         transition={{ repeat: Infinity, ease: "linear", duration: 20 }}
       >
-        {/* Duplicamos a lista para o loop infinito ficar perfeito */}
         {[...skills, ...skills].map((skill, index) => (
           <span key={index} className="text-2xl md:text-4xl font-bold text-gray-400 dark:text-gray-600 uppercase select-none">
             {skill}
