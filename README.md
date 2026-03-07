@@ -50,7 +50,7 @@ Siga os passos para rodar o portfólio em sua máquina
   
 1. Clone o repositório:
 ```bash
-  git clone [https://github.com/danielluiz07/meu-portifolio-react](https://github.com/danielluiz07/meu-repositorio-react.git) 
+  git clone [https://github.com/danielluiz07/meu-portifolio-react](https://github.com/danielluiz07/meu-portifolio-react.git) 
 ```
 
 2. Abra a pasta:
