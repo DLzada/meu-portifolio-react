@@ -20,54 +20,54 @@ import imgDlWinOptimizer from "../assets/dl-optimizer.png"
 const projectResources = {
   1: {
     images: [imgLandingPage],
-    github: "https://github.com/danielluiz07/landing-page",
-    preview: "https://landing-page-doisl.vercel.app/",
+    github: "https://github.com/dlzada/landing-page",
+    preview: "",
   },
   2: {
     images: [imgCaixaTreino],
-    github: "https://github.com/danielluiz07/caixa-treino",
-    preview: "https://caixa-treino-segunda.netlify.app",
+    github: "https://github.com/dlzada/caixa-treino",
+    preview: "",
   },
   3: {
     images: [imgLoginChat, imgChatTempoReal],
-    github: "https://github.com/danielluiz07/chat-tempo-real",
+    github: "https://github.com/dlzada/chat-tempo-real",
     preview: "",
   },
   4: {
     images: [imgPainelCopy1, imgPainelCopy2],
-    github: "https://github.com/danielluiz07/painel-copy-dl",
+    github: "https://github.com/dlzada/painel-copy-dl",
     preview: "",
   },
   5: {
     images: [imgCadastroUsuarios],
-    github: "https://github.com/danielluiz07/projeto-cadastro-usuarios",
+    github: "https://github.com/dlzada/projeto-cadastro-usuarios",
     preview: "",
   },
   6:{
     images: [imgLinkHub],
-    github: "https://github.com/danielluiz07/meu-linkhub",
-    preview: "https://meu-link-hub.vercel.app"
+    github: "https://github.com/dlzada/meu-linkhub",
+    preview: ""
   },
   7:{
     images: [imgDlCards],
-    github: "https://github.com/danielluiz07/DL_Cards",
+    github: "https://github.com/dlzada/DL_Cards",
     preview: ""
   },
   8:{
     images: [imgDlFeedbacks],
-    github: "https://github.com/danielluiz07/dl-feedbacks",
+    github: "https://github.com/dlzada/dl-feedbacks",
     preview: ""
   },
   9:{
     images: [imgDlWeather],
-    github: "https://github.com/danielluiz07/dl-weather",
+    github: "https://github.com/dlzada/dl-weather",
     preview: ""
   },
   10:{
     images: [imgDlWinOptimizer],
-    github: "https://github.com/danielluiz07/dl-win-optimizer",
+    github: "https://github.com/dlzada/dl-win-optimizer",
     preview: ""
-  },
+  }
 };
 
 // --- SUB-COMPONENTE:
