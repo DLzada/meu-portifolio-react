@@ -14,8 +14,9 @@ import imgCadastroUsuarios from "../assets/cadastro-usuarios.png";
 import imgLinkHub from "../assets/meu-link-hub.png";
 import imgDlCards from "../assets/dl-cards.png";
 import imgDlFeedbacks from "../assets/dl-feedbacks.png";
-import imgDlWeather from "../assets/dl-weather.png"
-import imgDlWinOptimizer from "../assets/dl-optimizer.png"
+import imgDlWeather from "../assets/dl-weather.png";
+import imgDlWinOptimizer from "../assets/dl-optimizer.png";
+import imgShareAndCare1 from "../assets/imgShareAndCare1.png";
 
 const projectResources = {
   1: {
@@ -66,6 +67,11 @@ const projectResources = {
   10:{
     images: [imgDlWinOptimizer],
     github: "https://github.com/dlzada/dl-win-optimizer",
+    preview: ""
+  },
+  11:{
+    images: [imgShareAndCare1],
+    github: "https://github.com/dlzada/share-and-care",
     preview: ""
   }
 };

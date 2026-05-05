@@ -95,6 +95,12 @@ const translations = {
           tech: "Python & CustomTkinter",
           desc:"O DL Windows Optimizer é uma central de otimização/atalhos para melhorar ao máximo o desempenho de sua máquina, o projeto encontra-se em sua primeira versão porém ja pode ser testado rodando localmente."
         },
+        {
+          id: 11,
+          title: "Share And Care API",
+          tech: "Java, Spring Boot, Spring Data JPA + Hibernate, Spring Security + JWT & PostgreSql",
+          desc: "O Share and Care é uma API REST desenvolvida para gerenciar doações e estoques de itens essenciais. O foco principal do projeto foi aplicar padrões de arquitetura corporativa modernos."
+        },
       ],
     },
     certs: {
