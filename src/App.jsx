@@ -146,6 +146,7 @@ const translations = {
           issuer: "Udemy, Professor: Matheus basttisti",
         },
       ],
+
     },
     contact: {
       title: "Entre em Contato",
@@ -238,6 +239,12 @@ const translations = {
           title: "Dl Windows Optimizer",
           tech: "Python & CustomTkinter",
           desc:"DL Windows Optimizer is a central optimization/shortcut tool to maximize your machine's performance. The project is in its first version, but it can already be tested by running it locally."
+        },
+        {
+          id: 11,
+          title: "Share And Care API",
+          tech: "Java, Spring Boot, Spring Data JPA + Hibernate, Spring Security + JWT & PostgreSql",
+          desc: "Share and Care is a REST API developed to manage donations and inventories of essential items. The main focus of the project was to apply modern enterprise architecture patterns."
         },
         
       ],
