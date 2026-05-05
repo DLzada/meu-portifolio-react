@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const skills = [
-  "Java", "Python", "JavaScript", "TypeScript", "Node.js", "Express.js", "React", "Prisma", "TailwindCss", "BootStrap", "PyAutoGui", "MySQL", "Postgres" , "SQLite", "MongoDB",  "Git", "GitHub", "Figma",  "Render"
+  "Java", "Spring Boot", "JavaScript", "TypeScript", "Node.js", "Express.js", "React", "Prisma", "TailwindCss", "BootStrap","MySQL", "Postgres" , "SQLite", "MongoDB",  "Git", "GitHub", "Figma",  "Render"
 ];
 
 export default function Skills() {
