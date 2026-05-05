@@ -13,7 +13,7 @@ export default function Contact({ t }) {
           
           <div className="flex justify-center gap-6">
             <Tooltip showArrow content="Acesse meu GitHub">
-              <a href="https://github.com/danielluiz07" target="_blank" rel="noreferrer" className="p-4 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:text-blue-500 hover:scale-110 transition border border-gray-100 dark:border-gray-700">
+              <a href="https://github.com/dlzada" target="_blank" rel="noreferrer" className="p-4 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:text-blue-500 hover:scale-110 transition border border-gray-100 dark:border-gray-700">
                 <Github size={24} />
               </a>
             </Tooltip>
